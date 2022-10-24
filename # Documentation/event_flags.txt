@@ -25,7 +25,7 @@
 1047610170 Dragonkin Soldier of Nokstella   #Ainsel River
 1047610180 Dragonkin Soldier                #Lake of Rot
 1047610190 Valiant Gargoyles                #Siofra River
-1047610200
+1047610200 Dragonkin Soldier                #Siofra River
 1047610210
 1047610220
 1047610230
