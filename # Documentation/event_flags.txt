@@ -15,6 +15,7 @@
 #------------------------------------
 1047610010 Default Flag Setup
 
+# Core
 1047610100 Godrick the Grafted              #Stormveil Castle
 1047610110 Margit, the Fell Omen            #Stormveil Castle
 1047610120 Grafted Scion                    #Chapel of Anticipation
@@ -26,76 +27,35 @@
 1047610180 Dragonkin Soldier                #Lake of Rot
 1047610190 Valiant Gargoyles                #Siofra River
 1047610200 Dragonkin Soldier                #Siofra River
-1047610210
-1047610220
-1047610230
-1047610240
-1047610250
-1047610260
-1047610270
-1047610280
-1047610290
-1047610300
-1047610310
-1047610320
-1047610330
-1047610340
-1047610350
-1047610360
-1047610370
-1047610380
-1047610390
-1047610400
-1047610410
-1047610420
-1047610430
-1047610440
+1047610210 Mimic Tear                       #Siofra River
+1047610220 Crucible Knight Sirulia          #Deeproot Depths
+1047610230 Fia's Champion                   #Deeproot Depths
+1047610240 Lichdragon Fortissax             #Deeproot Depths
+1047610250 Astel                            #Lake of Rot
+1047610260 Mohg, Lord of Blood              #Mohgwyn Palace
+1047610270 Ancestor Spirit                  #Siofra River
+1047610280 Regal Ancestor Spirit            #Nokron- Eternal City
+1047610290 Maliketh                         #Crumbling Farum Azula
+1047610300 Dragonlord Placidusax            #Crumbling Farum Azula
+1047610310 Godskin Duo                      #Crumbling Farum Azula
+1047610320 Rennala                          #Academy of Raya Lucaria
+1047610330 Red Wolf of Radagon              #Academy of Raya Lucaria
+1047610340 Malenia                          #Miquella's Haligtree
+1047610350 Loretta                          #Miquella's Haligtree
+1047610360 Rykard                           #Volcano Manor
+1047610370 Godskin Noble                    #Volcano Manor
+1047610380 Abductor Virgins                 #Volcano Manor
+1047610390 Ulcerated Tree Spirit            #Stranded Graveyard
+1047610400 Soldier of Godrick               #Stranded Graveyard
+1047610410 Elden Beast                      #Elden Throne
+1047610420 Mohg, The Omen                   #Subterranean Shunning-Grounds (Leyndell)
+1047610430 Esgar, Priest of Blood           #Subterranean Shunning-Grounds (Leyndell)
+1047610440 Magma Wyrm Makar                 #Ruin-Strewn Precipice (Liurnia)
 1047610450
 1047610460
 1047610470
 1047610480
 1047610490
-1047610500
-1047610510
-1047610520
-1047610530
-1047610540
-1047610550
-1047610560
-1047610570
-1047610580
-1047610590
-1047610600
-1047610610
-1047610620
-1047610630
-1047610640
-1047610650
-1047610660
-1047610670
-1047610680
-1047610690
-1047610700
-1047610710
-1047610720
-1047610730
-1047610740
-1047610750
-1047610760
-1047610770
-1047610780
-1047610790
-1047610800
-1047610810
-1047610820
-1047610830
-1047610840
-1047610850
-1047610860
-1047610870
-1047610880
-1047610890
-1047610900
 
 #------------------------------------
 104762_0000 Random
